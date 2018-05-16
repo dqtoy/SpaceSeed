@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0409948f92f4a406fb5cd4e109ff0c43
+timeCreated: 1515544612
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _WaveTexture: {fileID: 2800000, guid: 6a985dfcd1d3ca94e9753748ed65c697, type: 3}
+  - _MainTexture: {fileID: 2800000, guid: 5798ded558355430c8a9b13ee12a847c, type: 3}
+  - _NoiseTextureNotUsed: {fileID: 2800000, guid: e28dc97a9541e3642a48c0e3886688c5,
+      type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

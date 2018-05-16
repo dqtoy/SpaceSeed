@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c26b76dddc3e49b48a1afd86ff023a5
+timeCreated: 1515547872
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _liuguang: {fileID: 2800000, guid: a133a690c4b9f014cbc6179a83191248, type: 3}
+  - _liuguang2: {fileID: 2800000, guid: 6a985dfcd1d3ca94e9753748ed65c697, type: 3}
+  - _node_666: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+  - _node_2526: {fileID: 2800000, guid: 5107c7e05a1bf451aa9a6158a1caafdc, type: 3}
+  - _wenli: {fileID: 2800000, guid: 09004872d1fec7c41be3fff2dda61439, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

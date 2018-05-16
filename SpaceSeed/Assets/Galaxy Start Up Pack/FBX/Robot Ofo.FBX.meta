@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 6250a377a2f66d04eba29c6ea558232b
+timeCreated: 1504198466
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder002
+    100004: Robot Ofo
+    100006: Rig
+    100008: RigLArm1
+    100010: RigLArm1Gizmo
+    100012: RigLArm2
+    100014: RigLArm2Gizmo
+    100016: RigLArmCollarbone
+    100018: RigLArmIndex1
+    100020: RigLArmIndex2
+    100022: RigLArmPalm
+    100024: RigLArmPalmGizmo
+    100026: RigLArmThumb1
+    100028: RigLArmThumb2
+    100030: RigLLeg1
+    100032: RigLLeg2
+    100034: RigLLegAnkle
+    100036: RigLLegPlatform
+    100038: RigLLegToes1
+    100040: RigPelvis
+    100042: RigPelvisGizmo
+    100044: RigRArm1
+    100046: RigRArm1Gizmo
+    100048: RigRArm2
+    100050: RigRArm2Gizmo
+    100052: RigRArmCollarbone
+    100054: RigRArmIndex1
+    100056: RigRArmIndex2
+    100058: RigRArmPalm
+    100060: RigRArmPalmGizmo
+    100062: RigRArmThumb1
+    100064: RigRArmThumb2
+    100066: RigRibcage
+    100068: RigRibcageGizmo
+    100070: RigRLeg1
+    100072: RigRLeg2
+    100074: RigRLegAnkle
+    100076: RigRLegPlatform
+    100078: RigRLegToes1
+    100080: RigSpine1
+    100082: RigSpine2
+    400000: //RootNode
+    400002: Cylinder002
+    400004: Robot Ofo
+    400006: Rig
+    400008: RigLArm1
+    400010: RigLArm1Gizmo
+    400012: RigLArm2
+    400014: RigLArm2Gizmo
+    400016: RigLArmCollarbone
+    400018: RigLArmIndex1
+    400020: RigLArmIndex2
+    400022: RigLArmPalm
+    400024: RigLArmPalmGizmo
+    400026: RigLArmThumb1
+    400028: RigLArmThumb2
+    400030: RigLLeg1
+    400032: RigLLeg2
+    400034: RigLLegAnkle
+    400036: RigLLegPlatform
+    400038: RigLLegToes1
+    400040: RigPelvis
+    400042: RigPelvisGizmo
+    400044: RigRArm1
+    400046: RigRArm1Gizmo
+    400048: RigRArm2
+    400050: RigRArm2Gizmo
+    400052: RigRArmCollarbone
+    400054: RigRArmIndex1
+    400056: RigRArmIndex2
+    400058: RigRArmPalm
+    400060: RigRArmPalmGizmo
+    400062: RigRArmThumb1
+    400064: RigRArmThumb2
+    400066: RigRibcage
+    400068: RigRibcageGizmo
+    400070: RigRLeg1
+    400072: RigRLeg2
+    400074: RigRLegAnkle
+    400076: RigRLegPlatform
+    400078: RigRLegToes1
+    400080: RigSpine1
+    400082: RigSpine2
+    2300000: //RootNode
+    2300002: Cylinder002
+    2300004: Robot Ofo
+    3300000: //RootNode
+    3300002: Cylinder002
+    3300004: Robot Ofo
+    4300000: Robot Ofo
+    4300002: Cylinder002
+    9500000: //RootNode
+    13700000: Robot Ofo
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Head' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
